@@ -40,7 +40,7 @@ Gold, being a crucial economic asset and hedge against inflation, shows fluctuat
 
 Here’s a sample output of the forecasting result using the ARIMA model:
 
-![Forecast Visualization](goldPricePrediction.png)
+![Forecast Visualization](goldPriceForecasting.png)
 
 > This plot shows the model's forecast vs the actual gold prices over the testing period.
 
